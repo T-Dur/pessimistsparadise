@@ -28,9 +28,15 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Tamarah Durden.
+          "A place to brain dump shit"
+        </p>
+            <div>
+        <p>
+          by Tamarah Durden
         </p>
       </div>
+      </div>
+
     )
   }
 }
